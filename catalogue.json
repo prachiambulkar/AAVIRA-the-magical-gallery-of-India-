@@ -1,0 +1,1001 @@
+{
+  "project": "AAVIRA",
+  "title": "Echoes of a Land, Whispers of Time",
+  "total_images": 99,
+  "collections": {
+    "heritage": 75,
+    "portraits": 24
+  },
+  "images": [
+    {
+      "id": "heritage_001",
+      "filename": "heritage_001.jpeg",
+      "path": "images/heritage_001.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_002",
+      "filename": "heritage_002.jpeg",
+      "path": "images/heritage_002.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_003",
+      "filename": "heritage_003.jpeg",
+      "path": "images/heritage_003.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_004",
+      "filename": "heritage_004.jpeg",
+      "path": "images/heritage_004.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_005",
+      "filename": "heritage_005.jpeg",
+      "path": "images/heritage_005.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_006",
+      "filename": "heritage_006.jpeg",
+      "path": "images/heritage_006.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_007",
+      "filename": "heritage_007.jpeg",
+      "path": "images/heritage_007.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_008",
+      "filename": "heritage_008.jpeg",
+      "path": "images/heritage_008.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_009",
+      "filename": "heritage_009.jpeg",
+      "path": "images/heritage_009.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_010",
+      "filename": "heritage_010.jpeg",
+      "path": "images/heritage_010.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_011",
+      "filename": "heritage_011.jpeg",
+      "path": "images/heritage_011.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_012",
+      "filename": "heritage_012.jpeg",
+      "path": "images/heritage_012.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_013",
+      "filename": "heritage_013.jpeg",
+      "path": "images/heritage_013.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_014",
+      "filename": "heritage_014.jpeg",
+      "path": "images/heritage_014.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_015",
+      "filename": "heritage_015.jpeg",
+      "path": "images/heritage_015.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_016",
+      "filename": "heritage_016.jpeg",
+      "path": "images/heritage_016.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_017",
+      "filename": "heritage_017.jpeg",
+      "path": "images/heritage_017.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_018",
+      "filename": "heritage_018.jpeg",
+      "path": "images/heritage_018.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_019",
+      "filename": "heritage_019.jpeg",
+      "path": "images/heritage_019.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_020",
+      "filename": "heritage_020.jpeg",
+      "path": "images/heritage_020.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_023",
+      "filename": "heritage_023.jpeg",
+      "path": "images/heritage_023.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_024",
+      "filename": "heritage_024.jpeg",
+      "path": "images/heritage_024.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_025",
+      "filename": "heritage_025.jpeg",
+      "path": "images/heritage_025.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_026",
+      "filename": "heritage_026.jpeg",
+      "path": "images/heritage_026.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_029",
+      "filename": "heritage_029.jpeg",
+      "path": "images/heritage_029.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_030",
+      "filename": "heritage_030.jpeg",
+      "path": "images/heritage_030.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_031",
+      "filename": "heritage_031.jpeg",
+      "path": "images/heritage_031.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_032",
+      "filename": "heritage_032.jpeg",
+      "path": "images/heritage_032.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_033",
+      "filename": "heritage_033.jpeg",
+      "path": "images/heritage_033.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_034",
+      "filename": "heritage_034.jpeg",
+      "path": "images/heritage_034.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_035",
+      "filename": "heritage_035.jpeg",
+      "path": "images/heritage_035.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_037",
+      "filename": "heritage_037.jpeg",
+      "path": "images/heritage_037.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_038",
+      "filename": "heritage_038.jpeg",
+      "path": "images/heritage_038.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_039",
+      "filename": "heritage_039.jpeg",
+      "path": "images/heritage_039.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_040",
+      "filename": "heritage_040.jpeg",
+      "path": "images/heritage_040.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_041",
+      "filename": "heritage_041.jpeg",
+      "path": "images/heritage_041.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_043",
+      "filename": "heritage_043.jpeg",
+      "path": "images/heritage_043.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_044",
+      "filename": "heritage_044.jpeg",
+      "path": "images/heritage_044.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_045",
+      "filename": "heritage_045.jpeg",
+      "path": "images/heritage_045.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_046",
+      "filename": "heritage_046.jpeg",
+      "path": "images/heritage_046.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_047",
+      "filename": "heritage_047.jpeg",
+      "path": "images/heritage_047.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_050",
+      "filename": "heritage_050.jpeg",
+      "path": "images/heritage_050.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_051",
+      "filename": "heritage_051.jpeg",
+      "path": "images/heritage_051.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_052",
+      "filename": "heritage_052.jpeg",
+      "path": "images/heritage_052.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_054",
+      "filename": "heritage_054.jpeg",
+      "path": "images/heritage_054.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_055",
+      "filename": "heritage_055.jpeg",
+      "path": "images/heritage_055.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_057",
+      "filename": "heritage_057.jpeg",
+      "path": "images/heritage_057.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_058",
+      "filename": "heritage_058.jpeg",
+      "path": "images/heritage_058.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_059",
+      "filename": "heritage_059.jpeg",
+      "path": "images/heritage_059.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_061",
+      "filename": "heritage_061.jpeg",
+      "path": "images/heritage_061.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_062",
+      "filename": "heritage_062.jpeg",
+      "path": "images/heritage_062.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_063",
+      "filename": "heritage_063.jpeg",
+      "path": "images/heritage_063.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_064",
+      "filename": "heritage_064.jpeg",
+      "path": "images/heritage_064.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_065",
+      "filename": "heritage_065.jpeg",
+      "path": "images/heritage_065.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_066",
+      "filename": "heritage_066.jpeg",
+      "path": "images/heritage_066.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_067",
+      "filename": "heritage_067.jpeg",
+      "path": "images/heritage_067.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_068",
+      "filename": "heritage_068.jpeg",
+      "path": "images/heritage_068.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_069",
+      "filename": "heritage_069.jpeg",
+      "path": "images/heritage_069.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_071",
+      "filename": "heritage_071.jpeg",
+      "path": "images/heritage_071.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_072",
+      "filename": "heritage_072.jpeg",
+      "path": "images/heritage_072.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_073",
+      "filename": "heritage_073.jpeg",
+      "path": "images/heritage_073.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_074",
+      "filename": "heritage_074.jpeg",
+      "path": "images/heritage_074.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_075",
+      "filename": "heritage_075.jpeg",
+      "path": "images/heritage_075.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_076",
+      "filename": "heritage_076.jpeg",
+      "path": "images/heritage_076.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_077",
+      "filename": "heritage_077.jpeg",
+      "path": "images/heritage_077.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_078",
+      "filename": "heritage_078.jpeg",
+      "path": "images/heritage_078.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_079",
+      "filename": "heritage_079.jpeg",
+      "path": "images/heritage_079.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_080",
+      "filename": "heritage_080.jpeg",
+      "path": "images/heritage_080.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_081",
+      "filename": "heritage_081.jpeg",
+      "path": "images/heritage_081.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_082",
+      "filename": "heritage_082.jpeg",
+      "path": "images/heritage_082.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_083",
+      "filename": "heritage_083.jpeg",
+      "path": "images/heritage_083.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_084",
+      "filename": "heritage_084.jpeg",
+      "path": "images/heritage_084.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_085",
+      "filename": "heritage_085.jpeg",
+      "path": "images/heritage_085.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_086",
+      "filename": "heritage_086.jpeg",
+      "path": "images/heritage_086.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "heritage_087",
+      "filename": "heritage_087.jpeg",
+      "path": "images/heritage_087.jpeg",
+      "collection": "heritage",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian heeitage.pdf"
+    },
+    {
+      "id": "portraits_001",
+      "filename": "portraits_001.jpeg",
+      "path": "images/portraits_001.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_002",
+      "filename": "portraits_002.jpeg",
+      "path": "images/portraits_002.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_003",
+      "filename": "portraits_003.jpeg",
+      "path": "images/portraits_003.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_004",
+      "filename": "portraits_004.jpeg",
+      "path": "images/portraits_004.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_005",
+      "filename": "portraits_005.jpeg",
+      "path": "images/portraits_005.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_006",
+      "filename": "portraits_006.jpeg",
+      "path": "images/portraits_006.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_007",
+      "filename": "portraits_007.jpeg",
+      "path": "images/portraits_007.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_009",
+      "filename": "portraits_009.jpeg",
+      "path": "images/portraits_009.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_010",
+      "filename": "portraits_010.jpeg",
+      "path": "images/portraits_010.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_011",
+      "filename": "portraits_011.jpeg",
+      "path": "images/portraits_011.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_012",
+      "filename": "portraits_012.jpeg",
+      "path": "images/portraits_012.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_013",
+      "filename": "portraits_013.jpeg",
+      "path": "images/portraits_013.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_014",
+      "filename": "portraits_014.jpeg",
+      "path": "images/portraits_014.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_015",
+      "filename": "portraits_015.jpeg",
+      "path": "images/portraits_015.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_016",
+      "filename": "portraits_016.jpeg",
+      "path": "images/portraits_016.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_017",
+      "filename": "portraits_017.jpeg",
+      "path": "images/portraits_017.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_018",
+      "filename": "portraits_018.jpeg",
+      "path": "images/portraits_018.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_019",
+      "filename": "portraits_019.jpeg",
+      "path": "images/portraits_019.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_020",
+      "filename": "portraits_020.jpeg",
+      "path": "images/portraits_020.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_021",
+      "filename": "portraits_021.jpeg",
+      "path": "images/portraits_021.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_023",
+      "filename": "portraits_023.jpeg",
+      "path": "images/portraits_023.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_025",
+      "filename": "portraits_025.jpeg",
+      "path": "images/portraits_025.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_026",
+      "filename": "portraits_026.jpeg",
+      "path": "images/portraits_026.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    },
+    {
+      "id": "portraits_030",
+      "filename": "portraits_030.jpeg",
+      "path": "images/portraits_030.jpeg",
+      "collection": "portraits",
+      "title": "Story title to be finalised",
+      "category": "To be categorised",
+      "description": "Original image retained; poetic story description to be written after detailed review.",
+      "source_pdf": "indian portraits.pdf"
+    }
+  ]
+}

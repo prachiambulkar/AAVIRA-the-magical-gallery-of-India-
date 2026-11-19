@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>AAVIRA | Echoes of a Land, Whispers of Time</title>
+
+    <meta name="description" content="AAVIRA is a visual archive celebrating India's heritage, culture, architecture, traditions and people.">
+    <meta name="theme-color" content="#E8DDC8">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link href="https://fonts.googleapis.com/css2?family=Bodoni+Moda:wght@400;500;600&family=Cormorant+Garamond:wght@400;500;600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+    <header class="navbar">
+        <a href="#home" class="logo">AAVIRA<span>✦</span></a>
+
+        <nav class="nav-links" aria-label="Main navigation">
+            <a href="#home">Home</a>
+            <a href="#collections">Collections</a>
+            <a href="#stories">Stories</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </nav>
+
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle dark mode">
+            ☾
+        </button>
+    </header>
+
+    <main>
+        <section class="hero" id="home">
+            <div class="hero-overlay"></div>
+
+            <div class="hero-content">
+                <p class="hero-small">A VISUAL ARCHIVE OF INDIA</p>
+                <h1>AAVIRA</h1>
+                <div class="hero-line"></div>
+
+                <p class="hero-tagline">
+                    Echoes of a Land,<br>
+                    Whispers of Time.
+                </p>
+
+                <a href="#collections" class="hero-button">
+                    EXPLORE COLLECTIONS
+                </a>
+            </div>
+
+            <div class="scroll-indicator">SCROLL TO REDISCOVER</div>
+        </section>
+
+        <section class="introduction">
+            <p class="section-label">THE BEAUTY OF INDIA</p>
+
+            <h2>
+                Every place holds a story.<br>
+                Every photograph preserves time.
+            </h2>
+
+            <p class="intro-description">
+                From forgotten royal kingdoms to sacred traditions,
+                AAVIRA captures the timeless beauty, culture and
+                stories of India through photography.
+            </p>
+
+            <div class="intro-gallery">
+                <img src="https://images.unsplash.com/photo-1602643163983-ed0babc39797?auto=format&fit=crop&w=900&q=85" alt="Indian heritage architecture" loading="lazy">
+                <img src="https://images.unsplash.com/photo-1548013146-72479768bada?auto=format&fit=crop&w=900&q=85" alt="Historic Indian monument" loading="lazy">
+                <img src="https://images.unsplash.com/photo-1564507592333-c60657eea523?auto=format&fit=crop&w=900&q=85" alt="Royal Indian palace" loading="lazy">
+            </div>
+        </section>
+
+        <section class="collections" id="collections">
+            <div class="section-heading">
+                <p class="section-label">A JOURNEY THROUGH INDIA</p>
+                <h2>Discover Collections</h2>
+                <p>Explore the places, people and traditions that make India timeless.</p>
+            </div>
+
+            <div class="collection-preview">
+                <img src="https://images.unsplash.com/photo-1477587458883-47145ed94245?auto=format&fit=crop&w=900&q=85" alt="Indian palace architecture" loading="lazy">
+                <img src="https://images.unsplash.com/photo-1514222134-b57cbb8ce073?auto=format&fit=crop&w=900&q=85" alt="Indian cultural heritage" loading="lazy">
+                <img src="https://images.unsplash.com/photo-1500534623283-312aade485b7?auto=format&fit=crop&w=900&q=85" alt="Indian landscape" loading="lazy">
+            </div>
+
+            <div class="gallery-controls">
+                <input
+                    type="search"
+                    id="search-input"
+                    placeholder="Search photographs, places and stories..."
+                    aria-label="Search photographs"
+                >
+
+                <div class="category-filters" role="group" aria-label="Filter photographs by category">
+                    <button class="filter-btn active" data-category="all" type="button" aria-pressed="true">All Collections</button>
+                    <button class="filter-btn" data-category="architecture" type="button" aria-pressed="false">Royal Palaces & Architecture</button>
+                    <button class="filter-btn" data-category="temples" type="button" aria-pressed="false">Temples & Heritage</button>
+                    <button class="filter-btn" data-category="festivals" type="button" aria-pressed="false">Festivals & Traditions</button>
+                    <button class="filter-btn" data-category="nature" type="button" aria-pressed="false">Nature & Landscapes</button>
+                    <button class="filter-btn" data-category="streets" type="button" aria-pressed="false">Indian Streets</button>
+                    <button class="filter-btn" data-category="portraits" type="button" aria-pressed="false">People & Portraits</button>
+                    <button class="filter-btn" data-category="crafts" type="button" aria-pressed="false">Art & Craftsmanship</button>
+                    <button class="filter-btn" data-category="mythology" type="button" aria-pressed="false">Mythology</button>
+                    <button class="filter-btn" data-category="travel" type="button" aria-pressed="false">Travel & Hidden Places</button>
+                </div>
+            </div>
+
+            <div
+                class="gallery-grid"
+                id="gallery-grid"
+                aria-live="polite"
+                aria-label="Photograph collection">
+            </div>
+        </section>
+
+        <section class="stories" id="stories">
+            <p class="section-label">BEYOND THE FRAME</p>
+            <h2>Stories That Remember</h2>
+
+            <p>
+                Behind every monument, tradition and forgotten pathway
+                lies a story waiting to be discovered. Look beyond the
+                frame and experience the history, emotions and memories
+                preserved through time.
+            </p>
+
+            <div class="stories-gallery">
+                <img src="https://images.unsplash.com/photo-1606293926075-69a00dbfde81?auto=format&fit=crop&w=1000&q=85" alt="Indian heritage architecture" loading="lazy">
+                <img src="https://images.unsplash.com/photo-1561361513-2d000a50f0dc?auto=format&fit=crop&w=1000&q=85" alt="Indian traditional architecture" loading="lazy">
+            </div>
+        </section>
+
+        <section class="about" id="about">
+            <div class="about-layout">
+                <div class="about-image">
+                    <img src="https://images.unsplash.com/photo-1605649487212-47bdab064df7?auto=format&fit=crop&w=1200&q=85" alt="Ancient Indian heritage architecture" loading="lazy">
+                </div>
+
+                <div class="about-content">
+                    <p class="section-label">OUR STORY</p>
+                    <h2>The Stories Behind the Silence.</h2>
+
+                    <p>
+                        AAVIRA was born from the desire to preserve
+                        the beauty and stories hidden within India's
+                        heritage, culture and everyday life.
+                    </p>
+
+                    <p>
+                        We believe photography is more than capturing
+                        a moment. It is a way of remembering places,
+                        celebrating traditions and connecting generations.
+                    </p>
+
+                    <p>
+                        Our archive brings together visual stories
+                        inspired by India's timeless identity.
+                    </p>
+
+                    <p class="about-closing">
+                        Every photograph holds a story.
+                        Every story carries a piece of time.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <section class="contact" id="contact">
+            <p class="section-label">GET IN TOUCH</p>
+            <h2>Let Your Story Reach Us.</h2>
+
+            <p>
+                Have a story, photograph or thought to share?
+                We'd love to hear from you.
+            </p>
+
+            <form id="contact-form">
+                <input type="text" id="contact-name" placeholder="Your Name" aria-label="Your Name" required>
+                <input type="email" id="contact-email" placeholder="Your Email" aria-label="Your Email" required>
+                <input type="text" id="contact-subject" placeholder="Subject" aria-label="Subject" required>
+                <textarea id="contact-message" placeholder="Write your message..." aria-label="Your Message" rows="5" required></textarea>
+                <button type="submit">SEND MESSAGE</button>
+            </form>
+
+            <p id="form-status" aria-live="polite"></p>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <a href="#home" class="logo">AAVIRA<span>✦</span></a>
+
+        <p class="footer-tagline">Echoes of a Land, Whispers of Time.</p>
+
+        <p class="footer-description">
+            Preserving the beauty, heritage and stories of India,
+            one photograph at a time.
+        </p>
+
+        <div class="footer-links">
+            <a href="#home">Home</a>
+            <a href="#collections">Collections</a>
+            <a href="#stories">Stories</a>
+            <a href="#about">About</a>
+            <a href="#contact">Contact</a>
+        </div>
+
+        <p class="copyright">© 2026 AAVIRA. All rights reserved.</p>
+    </footer>
+
+    <div class="lightbox" id="lightbox" aria-hidden="true">
+        <button class="lightbox-close" id="lightbox-close" type="button" aria-label="Close viewer">&times;</button>
+        <button class="lightbox-prev" id="lightbox-prev" type="button" aria-label="Previous photograph">&#10094;</button>
+
+        <img id="lightbox-image" src="" alt="Selected heritage photograph">
+
+        <button class="lightbox-next" id="lightbox-next" type="button" aria-label="Next photograph">&#10095;</button>
+        <p id="lightbox-caption"></p>
+    </div>
+
+</body>
+</html>
